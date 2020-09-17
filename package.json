@@ -16,5 +16,8 @@
   "dependencies": {
     "npx": "^10.2.2",
     "pesto-exercise-starter": "latest"
+  },
+  "devDependencies": {
+    "eslint": "^7.9.0"
   }
 }
